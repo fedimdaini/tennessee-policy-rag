@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "question": "How many days of annual leave do employees earn per year at minimum?",
+    "expected_answer": "At minimum, 12 annual leave days per year, accrued on the first day of the employee's service anniversary month.",
+    "source_doc": ["Tennesse optionB.pdf"],
+    "source_page": 5,
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "question": "How many sick leave days do employees accrue per year?",
+    "expected_answer": "12 sick leave days per year.",
+    "source_doc": ["EmployeeHandbook.pdf", "Tennesse optionB.pdf"],
+    "source_page": null,
+    "difficulty": "easy",
+    "notes": "Fact appears in both the Handbook (p.20, summary) and DOHR Rules 1120-06-.12 (precise rule)."
+  },
+  {
+    "id": 3,
+    "question": "How long is the unpaid lunch period for most employees?",
+    "expected_answer": "One (1) hour, unpaid.",
+    "source_doc": ["EmployeeHandbook.pdf", "Tennesse optionB.pdf"],
+    "source_page": null,
+    "difficulty": "easy",
+    "notes": "Stated identically in Handbook (p.19) and DOHR Rules 1120-06-.06."
+  },
+  {
+    "id": 4,
+    "question": "What is the toll-free number to report fraud, waste, and abuse?",
+    "expected_answer": "1-800-232-5454 (the State Comptroller's Fraud Hotline).",
+    "source_doc": ["EmployeeHandbook.pdf"],
+    "source_page": 18,
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "question": "How many hours of Emotional Wellbeing Solutions (EWS) work time can an employee use per year with supervisor approval?",
+    "expected_answer": "Up to 10 hours of work time each year.",
+    "source_doc": ["EmployeeHandbook.pdf", "Tennesse optionB.pdf"],
+    "source_page": null,
+    "difficulty": "easy",
+    "notes": "Handbook (p.10) calls this EWS; DOHR Rules 1120-06-.25(5) calls the same benefit by its older name, EAP. Same 10 hours/year figure. Good test of whether retrieval/generation recognizes the terminology is equivalent."
+  },
+  {
+    "id": 6,
+    "question": "What is the maximum number of days a suspension without pay can last within a 12-month period?",
+    "expected_answer": "Thirty (30) calendar days within a 12-month period, unless the Commissioner of DOHR approves a longer suspension pending appeal.",
+    "source_doc": ["EmployeeHandbook.pdf"],
+    "source_page": 16,
+    "difficulty": "easy"
+  },
+  {
+    "id": 7,
+    "question": "How many consecutive months of employment are required before an employee becomes eligible for parental leave?",
+    "expected_answer": "Twelve (12) consecutive months as a full-time employee.",
+    "source_doc": ["EmployeeHandbook.pdf", "Tennesse optionB.pdf"],
+    "source_page": null,
+    "difficulty": "medium",
+    "notes": "Handbook p.22 and DOHR Rules 1120-06-.20(1) state the identical 12-month threshold."
+  },
+  {
+    "id": 8,
+    "question": "How many weeks of paid parental leave does an eligible employee receive, and does this count against annual or sick leave?",
+    "expected_answer": "Six (6) weeks of paid leave for a qualifying birth or adoption. This paid leave does not count against the employee's annual, sick, or compensatory leave balances.",
+    "source_doc": ["EmployeeHandbook.pdf", "Tennesse optionB.pdf"],
+    "source_page": null,
+    "difficulty": "medium",
+    "notes": "Handbook p.22 states the 6-week paid figure; DOHR Rules 1120-06-.20(2)-(3) states the same and adds it doesn't count against other leave."
+  },
+  {
+    "id": 9,
+    "question": "What is the maximum number of hours of premium compensatory time a non-public-safety, non-exempt employee can accumulate?",
+    "expected_answer": "240 hours of premium compensatory time for non-public-safety, non-exempt employees. Public safety non-exempt employees may accumulate up to 480 hours.",
+    "source_doc": ["Tennesse optionB.pdf"],
+    "source_page": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": 10,
+    "question": "How many paid workdays of bereavement leave are employees granted for the death of an immediate family member?",
+    "expected_answer": "Three (3) work days of paid leave, without charge to the employee's accumulated leave accounts, for the death of a spouse, child, parent, sibling, grandparent, grandchild, stepparent, foster parent, or parent-in-law.",
+    "source_doc": ["Tennesse optionB.pdf"],
+    "source_page": 7,
+    "difficulty": "medium",
+    "notes": "Handbook only lists 'Bereavement leave' as a bullet under Administrative Leave with no day count; the specific '3 days' figure only exists in DOHR Rules 1120-06-.13."
+  },
+  {
+    "id": 11,
+    "question": "How many days of military leave with pay can an employee take per year for reserve or National Guard duty?",
+    "expected_answer": "Up to twenty (20) working days per year, with no loss of service time, annual leave accrual, or sick leave accrual during that period.",
+    "source_doc": ["Tennesse optionB.pdf"],
+    "source_page": 9,
+    "difficulty": "medium",
+    "notes": "Handbook only mentions military leave exists, without the 20-day figure; that specific number only exists in DOHR Rules 1120-06-.18."
+  },
+  {
+    "id": 12,
+    "question": "What is the difference between how the Employee Handbook and the DOHR Attendance and Leave Rules describe parental leave duration?",
+    "expected_answer": "The Employee Handbook describes parental leave in general terms (up to 4 months for adoption, pregnancy, childbirth, or nursing, with 6 weeks paid). The DOHR Rules (1120-06-.20) give the precise structure: up to 4 months unpaid leave overall, 6 weeks paid for a qualifying birth/adoption (not counted against other leave), and up to 12 weeks using accumulated sick/annual leave if needed, coordinated with FMLA.",
+    "source_doc": ["EmployeeHandbook.pdf", "Tennesse optionB.pdf"],
+    "source_page": null,
+    "difficulty": "medium",
+    "notes": "Deliberately requires both documents — tests multi-document synthesis, not single-chunk lookup."
+  },
+  {
+    "id": 13,
+    "question": "Does an employee need a REAL ID compliant license to vote or visit the post office?",
+    "expected_answer": "No. A REAL ID is not required to drive a motor vehicle, vote, access federal court buildings, visit the post office, apply for federal benefits, purchase alcohol or cigarettes, or access hospitals.",
+    "source_doc": ["Tennessee Comprehensive Driver License Manual.pdf"],
+    "source_page": 5,
+    "difficulty": "distractor"
+  },
+  {
+    "id": 14,
+    "question": "What is the minimum age to obtain a Class D operator driver license in Tennessee, and what is the fee?",
+    "expected_answer": "The minimum age is 16, and the fee is $28.00 for the standard 8-year cycle.",
+    "source_doc": ["Tennessee Comprehensive Driver License Manual.pdf"],
+    "source_page": 12,
+    "difficulty": "distractor"
+  },
+  {
+    "id": 15,
+    "question": "What do I need to bring to register my vehicle for parking at my state office?",
+    "expected_answer": "This should be answered from the Employee Handbook, not the Driver License Manual. New employees are asked to bring vehicle information/welcome letter on their first day for parking registration, and general parking registration information is available via the State Employee Parking Maps and General Parking Registration websites. This is unrelated to the driver license application requirements described in the Driver License Manual.",
+    "source_doc": ["EmployeeHandbook.pdf"],
+    "source_page": 5,
+    "difficulty": "distractor",
+    "notes": "Tests whether retrieval avoids confusing this with the Driver License Manual's vehicle/license content, despite shared vocabulary (vehicle, registration, license)."
+  },
+  {
+    "id": 16,
+    "question": "What is the company's policy on reimbursing employees for parking at a private downtown garage?",
+    "expected_answer": "Not covered in the provided documents. The handbook describes State-maintained parking lots, Swipe and Ride, and general transportation benefits, but does not mention reimbursement for private garage parking.",
+    "source_doc": null,
+    "source_page": null,
+    "difficulty": "trick"
+  },
+  {
+    "id": 17,
+    "question": "How many vacation days does an employee get for referring a friend to a job opening?",
+    "expected_answer": "Not covered in the provided documents. No referral bonus or leave incentive program is mentioned in the Employee Handbook or the Attendance and Leave Rules.",
+    "source_doc": null,
+    "source_page": null,
+    "difficulty": "trick"
+  },
+  {
+    "id": 18,
+    "question": "What professional certification salary increase can employees receive, and is prior approval required?",
+    "expected_answer": "Employees may be eligible for up to a 5% salary increase for completing an approved professional certification program. Prior approval for the certification must be obtained before participating in the course.",
+    "source_doc": ["EmployeeHandbook.pdf"],
+    "source_page": 29,
+    "difficulty": "easy"
+  }
+]

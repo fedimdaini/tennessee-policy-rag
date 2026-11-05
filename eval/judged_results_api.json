@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "How many days of annual leave do employees earn per year at minimum?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states that employees earn a minimum of twelve (12) annual leave days per year, which is directly supported by the context in [Tennesse optionB.pdf, page 5]."
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "How many sick leave days do employees accrue per year?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer accurately reflects the information provided in the context, and it directly addresses the question about how many sick leave days employees accrue per year."
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "How long is the unpaid lunch period for most employees?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer is faithful because it only includes information directly supported by the context, and it is relevant because it directly addresses the question about the length of the unpaid lunch period."
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is the toll-free number to report fraud, waste, and abuse?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer is faithful because it directly quotes the context, and it is relevant because it directly addresses the question about the toll-free number to report fraud, waste, and abuse."
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "How many hours of Emotional Wellbeing Solutions (EWS) work time can an employee use per year with supervisor approval?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer is faithful because it directly quotes the provided context, and it is relevant because it directly addresses the question about the number of hours of Emotional Wellbeing Solutions (EWS) work time an employee can use per year with supervisor approval."
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the maximum number of days a suspension without pay can last within a 12-month period?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states that it doesn't have enough information to answer the question, which is a faithful response to the context."
+  },
+  {
+    "id": 7,
+    "difficulty": "medium",
+    "question": "How many consecutive months of employment are required before an employee becomes eligible for parental leave?",
+    "faithfulness": 0.0,
+    "answer_relevancy": 0.0,
+    "reasoning": "The answer does not address the question about the number of consecutive months of employment required before an employee becomes eligible for parental leave, and the claim made in the answer is not supported by the context."
+  },
+  {
+    "id": 8,
+    "difficulty": "medium",
+    "question": "How many weeks of paid parental leave does an eligible employee receive, and does this count against annual or sick leave?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer is faithful because it accurately states that the paid parental leave does not count against an employee's annual or sick leave, which is directly supported by the context, and it directly addresses the question about the number of weeks of paid parental leave and whether it counts against annual or sick leave."
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "What is the maximum number of hours of premium compensatory time a non-public-safety, non-exempt employee can accumulate?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states the maximum number of hours of premium compensatory time a non-public-safety, non-exempt employee can accumulate, which is directly supported by the context."
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "How many paid workdays of bereavement leave are employees granted for the death of an immediate family member?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states the number of paid workdays of bereavement leave granted for the death of an immediate family member, which is directly supported by the provided context."
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "How many days of military leave with pay can an employee take per year for reserve or National Guard duty?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states that an employee can take up to twenty (20) working days of military leave with pay per year for reserve or National Guard duty, which is directly supported by the context."
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "What is the difference between how the Employee Handbook and the DOHR Attendance and Leave Rules describe parental leave duration?",
+    "faithfulness": 0.8,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer score 0.8 for faithfulness because it claims that the Employee Handbook specifies a maximum duration of four (4) months for employees with at least one year of service, but the context actually states that employees with less than one (1) year of service may be granted up to thirty (30) workdays following the birth of a child, and employees with at least twelve (12) consecutive months as a full-time employee may be eligible to take up to four (4) months of parental leave."
+  },
+  {
+    "id": 13,
+    "difficulty": "distractor",
+    "question": "Does an employee need a REAL ID compliant license to vote or visit the post office?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states that an employee does not need a REAL ID compliant license to vote or visit the post office, which is directly supported by the provided context."
+  },
+  {
+    "id": 14,
+    "difficulty": "distractor",
+    "question": "What is the minimum age to obtain a Class D operator driver license in Tennessee, and what is the fee?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states the minimum age to obtain a Class D operator driver license in Tennessee as 16 years old, which is directly supported by the context, and the fee as $28.00, which is also directly supported by the context."
+  },
+  {
+    "id": 15,
+    "difficulty": "distractor",
+    "question": "What do I need to bring to register my vehicle for parking at my state office?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer correctly states information from the context about receiving information on registering a vehicle for parking during orientation, without making any claims not supported by the context."
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What professional certification salary increase can employees receive, and is prior approval required?",
+    "faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "reasoning": "The answer accurately reflects the information provided in the context regarding professional certification salary increases and prior approval requirements, and directly addresses the question asked."
+  }
+]

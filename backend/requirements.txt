@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+tiktoken
+sentence-transformers
+qdrant-client
+groq
+langchain-text-splitters
+python-dotenv
